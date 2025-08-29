@@ -2,8 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Actions</title>
-    <description>Email automation tool for macOS</description>
+    <description>Automation and Knowledge</description>
     <language>en</language>
+    <item>
+      <title>Actions 1.0</title>
+      <description><![CDATA[
+        <ul>
+          <li>Inference speed</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 29 Aug 2025 21:00:00 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure 
+        url="https://github.com/TryNextByte/actions-releases/releases/download/v1.0-4/Actions-1.0-4.zip"
+        length="4635257"
+        type="application/octet-stream"
+        sparkle:edSignature="u6/E5bUAl6XpTGVymj7MOZlZ7N+/Ki5BYPegUGYFaAOpShJPagxTgth6mJyMOam3GliE0LAViYv3WdhwRXXoCg==" />
+    </item>
     <!-- Releases will be added automatically by CI -->
   </channel>
 </rss>
